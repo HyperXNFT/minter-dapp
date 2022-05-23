@@ -1,7 +1,7 @@
 const contractAddress = "0x5968271Edb81D6da6aB2095b40403eA37eBec6D5"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the BigmouthNFT Club!!";
+const welcome_h1 = "Welcome to the BigmouthNFT!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The BigmouthNFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://bigmouthnft.xyz"  target="_blank" rel="noopener noreferrer">BigmouthNFT</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
@@ -20,6 +20,8 @@ const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your NFT";
 const mint_failed = "Minting failed. 😢 Please try again.";
+
+<a href="https://icy.tools/calendar" target="_blank"> <img src="https://cdn.icy.tools/images/icy-tools-dark.svg" alt="as seen on icy.tools" width="256" /></a>
 
 const abi = [
   {
